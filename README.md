@@ -1,0 +1,2 @@
+# aterbotafk
+ATERNOS AFK BOT
